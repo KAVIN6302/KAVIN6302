@@ -1,0 +1,5 @@
+{"effects":[
+ {"fx":"spotlight","start":0.95,"end":3.1,"text":"CLAUDIT"},
+ {"fx":"checklist","start":3.55,"end":5.5},
+ {"fx":"timeline","start":5.95,"end":7.85}
+]}

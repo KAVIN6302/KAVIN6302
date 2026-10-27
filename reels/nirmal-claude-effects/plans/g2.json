@@ -1,0 +1,51 @@
+{
+ "effects": [
+  {
+   "fx": "red-collage",
+   "text": "EDIT",
+   "lines": "ONE CLIP.|36 EFFECTS.|ZERO APPS.",
+   "start": 0.2,
+   "end": 1.55
+  },
+  {
+   "fx": "comment-box",
+   "text": "claude",
+   "handle": "nirmalalfred_official",
+   "start": 1.6,
+   "end": 2.95
+  },
+  {
+   "fx": "cover-star",
+   "text": "NIRMAL",
+   "lines": "36 effects|you can steal|no editor|needed",
+   "start": 3.0,
+   "end": 4.35
+  },
+  {
+   "fx": "headline-wall",
+   "handle": "@nirmalalfred_official",
+   "text": "Claude edited this whole reel::839K views|One clip, 36 effects, zero apps::596K views|Type /effects and wait::528K views|I stopped using editing apps::353K views|The AI tool that edits reels::213K views",
+   "total": "839K",
+   "start": 4.4,
+   "end": 5.75
+  },
+  {
+   "fx": "phone-fan",
+   "text": "36 effects.|zero editing apps.",
+   "start": 5.8,
+   "end": 7.15
+  },
+  {
+   "fx": "rabbit-hole",
+   "start": 7.2,
+   "end": 8.55
+  },
+  {
+   "fx": "profile-wall",
+   "count": "839000",
+   "name": "nirmalalfred_official",
+   "start": 8.6,
+   "end": 9.95
+  }
+ ]
+}

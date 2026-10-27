@@ -1,0 +1,6 @@
+renders/
+grid/
+*.mp4
+*.png
+sfx.wav
+__pycache__/

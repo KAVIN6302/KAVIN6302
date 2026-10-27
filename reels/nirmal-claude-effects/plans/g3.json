@@ -1,0 +1,32 @@
+{
+ "effects": [
+  {
+   "fx": "noise",
+   "start": 0.2,
+   "end": 2.2
+  },
+  {
+   "fx": "the-bill",
+   "start": 2.2,
+   "end": 4.2
+  },
+  {
+   "fx": "split-headline",
+   "start": 4.2,
+   "end": 6.2
+  },
+  {
+   "fx": "pastel-word",
+   "text": "REELS",
+   "name": "Nirmal",
+   "handle": "@nirmalalfred_official  \u00b7  ",
+   "start": 6.2,
+   "end": 8.2
+  },
+  {
+   "fx": "tier-list",
+   "start": 8.2,
+   "end": 10.2
+  }
+ ]
+}
